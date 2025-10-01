@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I’m Bilal  
 
-<!--
-**cloudbybilal/cloudbybilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring the world of **Cloud, AWS, and DevOps**  
+💻 Building projects & learning step by step  
+🌐 Gmail: cloudbybilal@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Interests
+- ☁️ Cloud Computing (AWS, Azure, GCP)  
+- 🛠️ DevOps basics  
+- 📦 GitHub Projects  
+- 📚 Always learning  
+
+---
+
+⭐ *This is just the beginning — more coming soon!*  
